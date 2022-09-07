@@ -4,7 +4,8 @@
 - [GitHub](https://github.com/MADKrollik)
 - [LinkeDin](https://www.linkedin.com/in/игорь-салфетник-34a868200/)
 - Discord: Ihor Salfetnyk#6634
-## About myself: Hi,there. I'm 37. I work in the landscaping industry. In our very hurried world, you can't stand still. I want to develop and be as useful as possible. That's why programming is suitable for improving my mental skills and helping people. 
+## About myself: 
+Hi,there. I'm 37. I work in the landscaping industry. In our very hurried world, you can't stand still. I want to develop and be as useful as possible. That's why programming is suitable for improving my mental skills and helping people. 
 ## Skils:
 - HTML & Css
 - Js
